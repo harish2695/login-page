@@ -7,8 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the repo to your machine
 
    ```bash
-   git clone https://github.com/harish2695/wookie-movies.git
-   cd wookie-movies
+   git clone https://github.com/harish2695/login-page.git
+   cd login-page
    ```
 
 2. Install packages
